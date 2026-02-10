@@ -1,23 +1,23 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
+import Header from './heder/Header';
+import Article from './article/Article'; 
+import Footer from './footer/Footer';
+import Nav from './nav/Nav';
+import data from './db.json';
 
 function App() {
+  let items = {"Главная":"/index", "Новости":"/news", "Магазин":"/store", "About":"/about", "Контакты":"/contscts"};
+  let db = data.people;
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <Nav navigation = {items}></Nav>
+      <Article db = {db}/>  
+      <Footer />   
+      
+      {/* Alt+Shift+стрелка вниз - Дублирует строку вниз */}
+      {/* Выравнивание выделенного фрагмента Windows/Linux: Ctrl + K Ctrl + F */}
     </div>
   );
 }

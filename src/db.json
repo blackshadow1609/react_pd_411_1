@@ -1,0 +1,63 @@
+{
+  "people": [
+    {
+      "name": "John",
+      "surname": "Smith",
+      "pol": "male",
+      "age": 46,
+      "photo": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/859b954b4eedb5f234a23d97e53c974c-1737808715028/85ce1c4d-65c1-4560-bc2a-9b51f9acc402.jpg"
+    },
+    {
+      "name": "Angela",
+      "surname": "Whinston",
+      "pol": "female",
+      "age": 31,
+      "photo": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/53751b2950c874e1576000eb7a0bee16-1721318005273/ea7d6b8b-e229-4fd4-b699-938dbba9c492.jpg"
+    },
+    {
+      "name": "Alex",
+      "surname": "Solberry",
+      "pol": "male",
+      "age": 35,
+      "photo": "https://fiverr-res.cloudinary.com/image/upload/t_profile_original,q_auto,f_auto/v1/attachments/profile/photo/4a91122e4e9eef490fe7ae714ffc35f9-1713828535057/c01b1b50-536b-4e5e-a5c3-a1adaa861201.jpg"
+    },
+    {
+      "name": "Anna",
+      "surname": "Rayan",
+      "pol": "female",
+      "age": 33,
+      "photo": "https://cdn-irec.r-99.com/sites/default/files/imagecache/250i/pictures/31/picture-3195604-1G-1wOpa.jpg"
+    },
+    {
+      "name": "Michael",
+      "surname": "Dobkin",
+      "pol": "male",
+      "age": 30,
+      "photo": "https://i.pinimg.com/736x/23/fb/c9/23fbc9fef634996c325ddd9e6105c7f3.jpg"
+    }
+	,
+    {
+      "name": "Marina",
+      "surname": "Bartley",
+      "pol": "female",
+      "age": 23,
+      "photo": "https://cdn-irec.r-99.com/sites/default/files/imagecache/250i/pictures/28/picture-2847181-4WBwF_j9.jpg"
+    }
+	,
+    {
+      "name": "Amanda",
+      "surname": "Dixon",
+      "pol": "female",
+      "age": 23,
+      "photo": "https://cdn-irec.r-99.com/sites/default/files/imagecache/250i/pictures/27/picture-2734110-IpBOEPo9.jpg"
+    }
+	,
+    {
+      "name": "Billy",
+      "surname": "Rosen",
+      "pol": "male",
+      "age": 30,
+      "photo": "https://i.pinimg.com/originals/90/dd/b6/90ddb6ef3c4c99a662ac2dc23806db77.jpg"
+    }
+  ]
+}

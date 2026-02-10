@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 30vmin;
   pointer-events: none;
 }
 
@@ -14,8 +14,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #62606c; /*Отвечает за цвет фона в основном заголовке*/
+  min-height: 55vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -25,7 +25,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #29bce4;
 }
 
 @keyframes App-logo-spin {
